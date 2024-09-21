@@ -95,7 +95,10 @@ th {
     box-shadow: 5 5px 5px rgba(0, 0, 0, 0);
 }
 nav{
-    font-size: 40px;
+    font-size: 25px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #c8f0cb;
+    text-align: center;
+    height: 100px;
     
 }
